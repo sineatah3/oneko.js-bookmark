@@ -1,19 +1,9 @@
 # oneko.js
 
-A hacky script I wrote to put a cat on my site.
+oneko.js is a script that you can put on websites but i decided that is simply not enough.
 
-The default image is `oneko.gif` in the same directory as the script. This can be changed by adding `data-cat="yourimage.png"` to your `<script>` tag.
+ive proceeded to do all my bullshittery and make it a bookmarklet for those of you who know them or use those blooket cheats
+so ive decided to make a bookmarklet version of it changed it slightly and made it pretty cool i think this is also a slight fork of spicetify oneko.js because i do use two of the sprites from there and plan to add maybe one or two more and i have to fix the images or maybe just get rid of them but yeah just copy the text from the oneko-bookmarklet.txt make a bookmark edit it and paste it into the url on its own. 
 
-demo: https://adryd.com
 
-This script is meant to be simple so that it can easily be extended upon. Pull requests adding features not seen in the [original neko program 
-](https://en.wikipedia.org/wiki/Neko_(software)) will probably not be merged.
-
-implemented in a few different places
-  - Userscript: https://openuserjs.org/scripts/sjehuda/Oneko_WebMate
-  - Vencord: https://vencord.dev/plugins/oneko
-  - Spicetify: https://github.com/kyrie25/spicetify-oneko
-
-feature forks
- - Pet the cat: https://github.com/tylxr59/oneko.js/tree/main
- - Move the cat using scroll wheel: https://github.com/rozbrajaczpoziomow/fork-oneko.js/tree/main
+# have fun and dont get javascript blocked at school
